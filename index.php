@@ -44,7 +44,7 @@
     </header>
     <main class="mdl-layout__content">
       <div class="right-image">
-        <img src="./images/museum.png" alt="Image of the outside of a museum." />
+        <img src="./images/ticket.jpeg" alt="Image of the outside of a museum." />
       </div>
       <div class="page-content">Enter in the day of the week and your age.</div>
       <br />
